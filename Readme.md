@@ -7,7 +7,7 @@ All these examples also work on a signle GPU with small footprint (&ast;2).
 
 - [RLHF (with PPO)](./01-rlhf-ppo.ipynb)
 - [DPO](./02-dpo.ipynb) (&ast;3)
-- Other examples will be added soon ... (Under construction)
+- [GRPO](./03-grpo.ipynb) (critic-free RL)
 
 If you're not familiar with reinforcement learning, please see [reinforcement learning tutorials](https://github.com/tsmatz/reinforcement-learning-tutorials) (&ast;4) for the outline of reinforcement learning (RL) algorithms.
 
